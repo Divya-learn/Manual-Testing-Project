@@ -16,6 +16,8 @@ This project follows Agile Methodology Scrum framework which contains
 ## Test execution results:
   ![Test execution summary new](https://github.com/Divya-learn/Manual-Testing-Project/assets/154688466/ad7d8ef3-1833-4730-ad44-7ee6ab39c215)
 
+### Find the Test execution report: [Test execution results](https://github.com/Divya-learn/Manual-Testing-Project/blob/main/Test%20execution%20results.pdf)
+
 **Documents:**
 - Test plan
 - Test scenario
